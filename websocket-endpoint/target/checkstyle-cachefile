@@ -1,0 +1,12 @@
+#Tue Jul 16 17:05:11 CDT 2019
+configuration*?=79B03CB77989933F9B91CAC9804EEA2D4494515F
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BiddingEncoder.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Item.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/Message.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BidWebSocketEndpoint.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BidStatus.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bidding.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/MessageDecoder.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BiddingFactory.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bid.java=1546898826000

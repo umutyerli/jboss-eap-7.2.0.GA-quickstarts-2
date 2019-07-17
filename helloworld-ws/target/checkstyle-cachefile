@@ -1,0 +1,8 @@
+#Tue Jul 16 17:04:51 CDT 2019
+configuration*?=065084068E1463C2CD806BB5B20237BEA6B7A38B
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/helloworld-ws/src/main/java/org/jboss/as/quickstarts/wshelloworld/HelloWorldService.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/helloworld-ws/src/test/java/org/jboss/as/quickstarts/wshelloworld/ClientArqIT.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/helloworld-ws/src/test/java/org/jboss/as/quickstarts/wshelloworld/ClientTest.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/helloworld-ws/src/main/java/org/jboss/as/quickstarts/wshelloworld/HelloWorldServiceImpl.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/helloworld-ws/src/test/java/org/jboss/as/quickstarts/wshelloworld/Client.java=1546898826000

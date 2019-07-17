@@ -1,0 +1,5 @@
+#Tue Jul 16 17:04:54 CDT 2019
+configuration*?=40CF8A05636871BD2A4968AE90D2A240BBE4523B
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxws-pojo/client/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/jsr181pojo/JSEBean.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxws-pojo/client/src/main/java/org/jboss/quickstarts/ws/client/Client.java=1546898826000

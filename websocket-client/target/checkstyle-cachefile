@@ -1,0 +1,11 @@
+#Tue Jul 16 17:05:10 CDT 2019
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBackend.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ConnectionGate.java=1546898826000
+configuration*?=3DC7913CEC8550DDD3498262BC1F7A7243711D17
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToFrontend.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionManager.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionMessage.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBroadcast.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Frontend.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Backend.java=1546898826000

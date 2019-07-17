@@ -1,0 +1,11 @@
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/controller/BatchController.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/listener/PersistListener.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/model/Contact.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/RecordsReader.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/listener/JobListener.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ReportBatchelet.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/controller/JobData.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ChunkCheckpoint.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ContactsFormatter.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/util/Resources.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/batch-processing/src/main/java/org/jboss/as/quickstarts/batch/job/ContactsPersister.java

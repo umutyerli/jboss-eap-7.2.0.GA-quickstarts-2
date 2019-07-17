@@ -1,0 +1,13 @@
+#Tue Jul 16 17:05:12 CDT 2019
+configuration*?=23BDE48521F5F86B090764D9D80695630E31D966
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/test/java/org/jboss/as/quickstarts/wsat/simple/ClientStub.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/MockRestaurantManager.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantParticipant.java=1546898826000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceAT.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/RestaurantException.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/test/java/org/jboss/as/quickstarts/wsat/simple/Client.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/jaxws/RestaurantServiceATService.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/main/java/org/jboss/as/quickstarts/wsat/simple/servlet/WSATSimpleServletClient.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/wsat-simple/src/test/java/org/jboss/as/quickstarts/wsat/simple/ClientIT.java=1546898826000

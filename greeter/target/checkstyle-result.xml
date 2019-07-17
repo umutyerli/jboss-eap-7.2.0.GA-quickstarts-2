@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/web/GreetController.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/web/CreateController.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/Resources.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/UserDao.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/ManagedBeanUserDao.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/User.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/java/org/jboss/as/quickstarts/greeter/domain/EJBUserDao.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/greeter/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

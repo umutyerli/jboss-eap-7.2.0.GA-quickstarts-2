@@ -1,0 +1,7 @@
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/data/MemberListProducer.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/model/Member.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/JaxRsActivator.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/rest/MemberResourceRESTService.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/controller/MemberRegistration.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/util/Resources.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/kitchensink-jsp/src/main/java/org/jboss/as/quickstarts/kitchensinkjsp/servlet/MemberRegistrationServlet.java

@@ -1,0 +1,10 @@
+#Tue Jul 16 17:04:52 CDT 2019
+configuration*?=72B225CABC289797D3D37C1487DD3964F2EFF1F2
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/SavedByClientRequestFilter.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/ContactResourceRESTService.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClient.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClientIT.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/model/Contact.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/JaxRsActivator.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/LogResponseFilter.java=1546898826000

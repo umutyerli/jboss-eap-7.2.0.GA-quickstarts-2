@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-jaas/src/main/java/org/jboss/as/quickstarts/ejb_security_jaas/RemoteClient.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-jaas/src/main/java/org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJBServlet.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-jaas/src/main/java/org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJBRemote.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-jaas/src/main/java/org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJB.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-jaas/src/main/resources/wildfly-config.xml">
+</file>
+</checkstyle>

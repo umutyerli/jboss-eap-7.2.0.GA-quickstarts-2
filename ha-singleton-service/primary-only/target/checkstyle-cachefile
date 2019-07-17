@@ -1,0 +1,6 @@
+#Tue Jul 16 17:04:46 CDT 2019
+configuration*?=4EDFEE05F0A8FD77796276B8DDF4B4EC80FEF43A
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/ha-singleton-service/primary-only/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/primary/ServiceActivator.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/ha-singleton-service/primary-only/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/primary/SingletonService.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/ha-singleton-service/primary-only/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/primary/QueryingService.java=1546898826000

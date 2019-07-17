@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ha-singleton-service/with-backups/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/backups/ServiceActivator.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ha-singleton-service/with-backups/src/main/java/org/jboss/as/quickstarts/ha/singleton/service/backups/SingletonService.java">
+</file>
+</checkstyle>

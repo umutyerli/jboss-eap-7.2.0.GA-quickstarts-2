@@ -1,0 +1,5 @@
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/RemoteClient.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJBRemote.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJBRemote.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJB.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJB.java

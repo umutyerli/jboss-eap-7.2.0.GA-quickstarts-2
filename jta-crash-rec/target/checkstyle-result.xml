@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/XAService.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/XAServlet.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/KVPair.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jta-crash-rec/src/main/java/org/jboss/as/quickstarts/xa/DbUpdaterMDB.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jta-crash-rec/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jaxws-ejb/service/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/jsr181pojo/EJB3Bean.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jaxws-ejb/service/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/jsr181pojo/EJB3RemoteInterface.java">
+</file>
+<file name="/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/jaxws-ejb/service/src/main/resources/log4j.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,4 @@
+#Tue Jul 16 17:05:11 CDT 2019
+configuration*?=65EFDA284ED4A867FC835F103D77990F573881D1
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/websocket-hello/src/main/java/org/jboss/as/quickstarts/websocket_hello/HelloName.java=1546898826000

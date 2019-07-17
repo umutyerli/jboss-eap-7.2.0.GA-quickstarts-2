@@ -1,0 +1,15 @@
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskList.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskListBean.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDao.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/AuthController.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/User.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTask.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Task.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Resources.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDaoImpl.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskController.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/Authentication.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentTaskStore.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/UserDaoImpl.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/TaskDao.java
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts 2/tasks-jsf/src/main/java/org/jboss/as/quickstarts/tasksJsf/CurrentUser.java

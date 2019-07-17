@@ -1,0 +1,15 @@
+#Tue Jul 16 17:05:10 CDT 2019
+configuration*?=FC32849FE1D54AF6ADA3F65248CD9DB638D4A7B5
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/DefaultDeployment.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/TaskDaoIT.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/User.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/resources/META-INF/persistence.xml=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/UserDaoIT.java=1546898826000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDao.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Task.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDaoImpl.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Resources.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/service/TaskResource.java=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDao.java=1546898826000

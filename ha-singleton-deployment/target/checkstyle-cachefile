@@ -1,0 +1,5 @@
+#Tue Jul 16 17:04:46 CDT 2019
+configuration*?=8CF11659CD8520A02F7BFEFC7F18F47EA859E615
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/ha-singleton-deployment/src/main/resources/META-INF/singleton-deployment.xml=1546898826000
+/Users/umutyerli/Documents/jboss-eap-7.2.0.GA-quickstarts\ 2/ha-singleton-deployment/src/main/java/org/jboss/as/quickstarts/ha/singleton/SingletonTimer.java=1546898826000
